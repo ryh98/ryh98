@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ratna From Indonesia
 - 👀 I’m interested in UI/UX Design & Front End Developing
-- 🌱 I’m currently working as Information System Analyze & Designer at Dinas Kominfosan Yogyakarta, Indonesia
+- 🌱 I’m currently working as Information System Analyst & Designer at Dinas Kominfosan Yogyakarta, Indonesia
 - 📫 Contact me on Instagram (@ryh98)
 
 <!---
